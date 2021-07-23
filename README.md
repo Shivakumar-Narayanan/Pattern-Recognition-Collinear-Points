@@ -1,5 +1,5 @@
 # Pattern-Recognition-Collinear-Points
-Recognizing line patterns in a set of points
+Recognizing line patterns in a set of points.  
 Part of Algorithms - Part-1, Princeton University.
 
 Computer vision involves analyzing patterns in visual images and reconstructing the real-world objects that produced them. The process is often broken up into two phases: feature detection and pattern recognition. Feature detection involves selecting important features of the image; pattern recognition involves discovering patterns in the features.Following is a particularly clean pattern recognition problem involving points and line segments. This kind of pattern recognition arises in many other applications such as statistical data analysis. 
